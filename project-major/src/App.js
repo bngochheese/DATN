@@ -19,6 +19,7 @@ function App() {
         </a>
       </header> */}
       <h1>Ngọc</h1>
+      <h1>Ngọc new update</h1>
     </div>
   );
 }
